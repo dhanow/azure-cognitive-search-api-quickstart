@@ -3,5 +3,5 @@ Quickstart: Create an Azure Cognitive Search index in C# using the .NET SDK
 
 https://docs.microsoft.com/en-us/azure/search/search-get-started-dotnet
 
-![Cognitive Search Api]("./docs/images/CognitiveSearchApi.PNG")
+![Cognitive Search Api](./docs/images/CognativeSearchApi.PNG)
 
